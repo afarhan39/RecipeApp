@@ -3,7 +3,7 @@ Simple and fast recipe, on-the-go!
 
 ## Synopsis
 
-This app, RecipeApp helps to store recipes that user want to do. Hence, **RecipeApp** have 4 major features!
+This app, RecipeApp helps to store recipes that user want to do. Hence, **RecipeApp** have 6 major features!
 1. Create Recipe
 2. Edit Recipe
 3. Delete Recipe
@@ -13,7 +13,7 @@ This app, RecipeApp helps to store recipes that user want to do. Hence, **Recipe
 
 ## Explanation
 
-1. This is the main page of the app. User can click + Button to add task as desired.
+1. This is the main page of the app. User can click + Button to add recipe as desired.
 <p align="center">
   <img src=https://user-images.githubusercontent.com/24514082/29495139-5907f7d4-85eb-11e7-8a8d-55dfc3e56bd2.png width="200">
 </p>
